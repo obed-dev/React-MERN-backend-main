@@ -1,6 +1,6 @@
-## Backend MERN - Calendar
+## Backend MERN - Calendar App
 
-## MERN Calendar App
+
 This project is a MERN stack application for managing calendar events. The backend is built with Node.js, Express, and MongoDB, while the frontend uses React to provide a dynamic and responsive user interface.
 
 ## Features
