@@ -10,10 +10,10 @@ Calendar Display: Interactive calendar view to visualize events.
 CRUD Operations: Full functionality to manage event data stored in MongoDB.
 
 ## Technologies Used
-# Frontend: React, Redux (optional), React Router
-# Backend: Node.js, Express.js, JWT for authentication
-# Database: MongoDB
-# Other: Mongoose, bcrypt for password hashing
+ Frontend: React,
+ Backend: Node.js, Express.js, JWT for authentication
+ Database: MongoDB
+ Other: Mongoose, bcrypt for password hashing, Axios , Redux , SweetAlert2.
 
 # Setup & Installation
 Clone the repository:
